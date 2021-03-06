@@ -132,8 +132,7 @@ runtime = process.uptime()
 ┣◪ 𝗜𝗡𝗙𝗢
 ┃ ❏ Runtime: ${kyun(runtime)}
 ┃ ❏ Prefix: 「 ${prefix} 」
-┃ ❏ Selfbot By OnlyDev City
-┃ ❏ Api : https://onlydevcity.herokuapp.com/
+┃ ❏ Selfbot By Mass
 ┃
 ┣◪ 𝗠𝗘𝗡𝗨 𝗠𝗔𝗞𝗘𝗥
 ┃
